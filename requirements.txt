@@ -1,2 +1,2 @@
 numpy
-xarray[complete]
+xarray
