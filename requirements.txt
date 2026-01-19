@@ -1,2 +1,2 @@
 numpy
-xarray[io]
+xarray[io,vis]
